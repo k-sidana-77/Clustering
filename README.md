@@ -74,8 +74,8 @@ The optimal clustering combination was identified based on **Silhouette Score**.
 Install dependencies:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn '''
-
+pip install pandas numpy matplotlib seaborn scikit-learn 
+```
 ---
 
 ## Contributors
