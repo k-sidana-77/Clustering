@@ -35,7 +35,7 @@ We applied the following unsupervised clustering algorithms:
 
 - **K-Means**
 - **Hierarchical (Agglomerative Clustering)**
-- **K-Means Shift** 
+- **K-Mean Shift** 
 
 ---
 
