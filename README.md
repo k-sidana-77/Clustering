@@ -55,7 +55,7 @@ The optimal clustering combination was identified based on **Silhouette Score**.
 
 - ✅ **Best Algorithm**: `K-Means Shift`
 - ✅ **Best Number of Clusters**: `2`
-- ✅ **Best Preprocessing**: `T+N+PCA`
+- ✅ **Best Preprocessing**: `No Data Processing`
 - ✅ **Best Silhouette Score**: 0.68
 
 ---
@@ -75,3 +75,9 @@ Install dependencies:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+---
+
+## Contributors
+[Kartik Sidana]
+
