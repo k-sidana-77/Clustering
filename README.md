@@ -35,7 +35,7 @@ We applied the following unsupervised clustering algorithms:
 
 - **K-Means**
 - **Hierarchical (Agglomerative Clustering)**
-- **Mean Shift** (replacing K-Medoids due to compatibility issues)
+- **K-Means Shift** 
 
 ---
 
@@ -53,10 +53,10 @@ The optimal clustering combination was identified based on **Silhouette Score**.
 
 ## 📊 Results Summary
 
-- ✅ **Best Algorithm**: `K-Means`
-- ✅ **Best Number of Clusters**: `3`
+- ✅ **Best Algorithm**: `K-Means Shift`
+- ✅ **Best Number of Clusters**: `2`
 - ✅ **Best Preprocessing**: `T+N+PCA`
-- ✅ **Best Silhouette Score**: _e.g._ `0.71` (update with actual value from results)
+- ✅ **Best Silhouette Score**: 0.68
 
 ---
 
